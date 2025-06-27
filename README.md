@@ -1,6 +1,6 @@
 # 📞 CONTACT MANAGEMENT SYSTEM
 
-This is a command-line Contact Management System built in Python as part of **Week 1 Tasks** for the `Techplement` repository.
+This is a command-line Contact Management System built in Python as part of **Week 1 Task** for Python Developer Internship at **TECHPLEMENT**
 
 
 ## ✅ Features
