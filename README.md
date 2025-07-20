@@ -1,11 +1,11 @@
-# 📞 CONTACT MANAGEMENT SYSTEM
+# 📞 Contact Management System
 
-This is a command-line Contact Management System built in Python as part of **Week 1 Task** for Python Developer Internship at **TECHPLEMENT**.
+This is a command-line Contact Management System built in Python as part of **Task 1** for Python Developer Internship at **TECHPLEMENT**.
 
 
 ## ✅ Features
 
-- Add new contacts with name, phone, and email
+- Add new contacts with name, phone and email
 - View all saved contacts
 - Search contacts by name (case-insensitive)
 - Update contact details using contact ID
@@ -15,13 +15,13 @@ This is a command-line Contact Management System built in Python as part of **We
 
 ## 💡 How to Run
 
-1. Clone this repository:
+1. Clone this repository -
 
    ```bash
    git clone https://github.com/iamhriturajsaha/CONTACT-MANAGMENT-SYSTEM.git
    cd CONTACT-MANAGMENT-SYSTEM
    
-2. Run the application:
+2. Run the application -
    ```bash
    python contact_manager.py
 
