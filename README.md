@@ -2,7 +2,6 @@
 
 This is a command-line Contact Management System built in Python as part of **Project 1** for Python Developer Internship at **TECHPLEMENT**.
 
-
 ## ✅ Features
 
 - Add new contacts with name, phone and email
@@ -11,7 +10,6 @@ This is a command-line Contact Management System built in Python as part of **Pr
 - Update contact details using contact ID
 - Input validation for phone numbers and email addresses
 - Persistent storage using JSON
-
 
 ## 💡 How to Run
 
