@@ -25,16 +25,19 @@ This is a command-line Contact Management System built in Python as part of **Pr
 
 
 ## 📥 Data Storage
-    - All contact data is stored in a JSON file named contacts.json.
-    - It is created/updated automatically when you add or modify a contact.
+
+- All contact data is stored in a JSON file named contacts.json.
+- It is created/updated automatically when you add or modify a contact.
 
 
 ## 🔒 Input Validation
-    - Phone Number: Must contain 7–15 digits, may start with +.
-    - Email: Must follow a valid email format like name@example.com.
+
+- Phone Number - Must contain 7–15 digits, may start with +.
+- Email - Must follow a valid email format like name@example.com.
 
 
 ## 🚀 Optional Future Enhancements
-    - Delete contact feature
-    - Sorting/filtering options
-    - GUI version using Tkinter or PyQt
+
+- Delete contact feature
+- Sorting/filtering options
+- GUI version using Tkinter or PyQt
