@@ -1,4 +1,4 @@
-# 📞Contact Management System
+# ☎️Contact Management System
 
 This is a command-line Contact Management System built in Python as part of **Project 1** for Python Developer Internship at **TECHPLEMENT**.
 
