@@ -23,18 +23,15 @@ This is a command-line Contact Management System built in Python as part of **Pr
    ```bash
    python contact_manager.py
 
-
 ## 📥 Data Storage
 
 - All contact data is stored in a JSON file named contacts.json.
 - It is created/updated automatically when you add or modify a contact.
 
-
 ## 🔒 Input Validation
 
 - Phone Number - Must contain 7–15 digits, may start with +.
 - Email - Must follow a valid email format like name@example.com.
-
 
 ## 🚀 Optional Future Enhancements
 
